@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #87ceeb;
+    font-weight: 100px;
+    border: 3.5px solid green;
+    padding: 15px;
+    color: antiquewhite;
+}
+span{
+    text-decoration:underline;
+    cursor: pointer;
+    color: green;
+}
+h2{
+    text-align: left;
+    color: antiquewhite;
+
+}
+article{
+    display: flex;
+    flex-direction: column;
+}
+span img{
+    display: inline-block;
+    /* flex-wrap: wrap; */
+}
