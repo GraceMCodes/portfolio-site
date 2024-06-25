@@ -6,6 +6,11 @@ body{
     padding: 15px;
     color: antiquewhite;
 }
+footer{
+    color: green;
+    text-decoration: underline;
+}
+
 span{
     text-decoration:underline;
     cursor: pointer;
@@ -16,11 +21,23 @@ h2{
     color: antiquewhite;
 
 }
-article{
-    display: flex;
-    flex-direction: column;
+/* .one{
+    /* display: flex;
+    flex-direction: column; */
+    /* position: absolute;
+    top: 12;
+    left: 12;
+
+}
+.two{
+    position: absolute; */
+    /* bottom: 5px;
+    left: 10px;
 }
 span img{
     display: inline-block;
     /* flex-wrap: wrap; */
-}
+    /* position: absolute;
+    top: 40px;
+    right: -30px;
+} */ 
